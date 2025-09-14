@@ -27,4 +27,4 @@ To acquire the materials for the session, please run the `git clone` command wit
 
 Alternatively, please download the zip file from the blue `Code` button and extract the contents.
 
-Run the [workshop_setup.R](./Exercises/workshop_setup.R) script in the `Exercises/` folder to ensure all the required packages are installed.
+Run the [workshop_setup.R](./Exercise/workshop_setup.R) script in the `Exercises/` folder to ensure all the required packages are installed.
