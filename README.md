@@ -1,4 +1,4 @@
-# CBH Module3 Practical 4 Data Visualization
+# CBW Module3 Practical 4 Data Visualization
 **Date: Oct 2, 2025**
 
 **Time: 9AM-11AM ET**
@@ -23,7 +23,7 @@ The seminar will also dive into specialized plots (e.g., heatmaps, Kaplan-Meier 
 
 To acquire the materials for the session, please run the `git clone` command with the repository URL:
 
-`git clone https://github.com/Hannah-Yu-0816/CBH_Workshop_Practial4_DataVisualization.git`
+`git clone https://github.com/Hannah-Yu-0816/CBW_Workshop_Practial4_DataVisualization.git`
 
 Alternatively, please download the zip file from the blue `Code` button and extract the contents.
 
